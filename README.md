@@ -35,7 +35,3 @@
 **EN**:
 1. Make sure you have **SFML** installed.
 2. Compile the project using a C++ compiler with SFML support.
-
-Exemplu de compilare / Compile example:
-```bash
-g++ main.cpp Player.cpp Brick.cpp Ball.cpp -o brick_breaker -lsfml-graphics -lsfml-window -lsfml-system
