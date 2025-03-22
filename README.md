@@ -25,13 +25,3 @@
   - Auto-reset when the ball is lost
 
 ---
-
-## Instalare / Installation
-
-**RO**:
-1. Asigură-te că ai instalat **SFML**.
-2. Compilează proiectul folosind un compilator C++ cu suport pentru SFML.
-
-**EN**:
-1. Make sure you have **SFML** installed.
-2. Compile the project using a C++ compiler with SFML support.
